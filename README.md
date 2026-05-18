@@ -6,7 +6,7 @@ I'm an AI student at FAST NUCES passionate about building things on both ends of
 
 ## 🛠️ What I Work With
 
-**Languages:** Python · C++ · JavaScript · HTML · CSS
+**Languages:** Python · C++ · JavaScript · HTML · CSS · Assembly
 
 **AI / ML:** TensorFlow · PyTorch · Scikit-learn · OpenCV
 
@@ -27,6 +27,11 @@ Built a fully autonomous drone with real-time object detection and tracking usin
 
 ### 🎮 Subway Surfers Clone (C++ / SFML)
 Recreated the core Subway Surfers experience from scratch in C++ — player movement, procedural obstacle generation, collision detection, sprite rendering, and a full game loop.
+
+---
+
+### 🚕 Rush Hour Game (Assembly x86)
+Rush Hour taxi game built in x86 Assembly Language (MASM) with multiple game modes, leaderboard, and audio.
 
 ---
 
