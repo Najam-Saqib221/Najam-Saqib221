@@ -25,6 +25,11 @@ Built a fully autonomous drone with real-time object detection and tracking usin
 
 ---
 
+### 🎬 CineScream (Python)
+An AI-powered movie trailer generator that detects high-impact scenes, applies creepy visual transformations, generates cinematic NLP captions, and evaluates trailer quality using a trained classification model.
+
+---
+
 ### 👾 Maze-Solver Robot (Python)
 Built a maze-solving robot implemented in ROS2, which utilizes a top-view camera feed, OpenCV-based image processing and Search algorithms based pathfinding to
 navigate through a maze and reach an exit position.
