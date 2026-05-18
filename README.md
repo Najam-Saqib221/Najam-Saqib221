@@ -14,14 +14,20 @@ I'm an AI student at FAST NUCES passionate about building things on both ends of
 
 **Data:** Pandas · NumPy · Exploratory Data Analysis · Predictive Modelling
 
-**Tools:** Git · Docker · Linux · Bash · n8n · SFML
+**Tools:** Git · Docker · ROS / Gazebo · Linux · Bash · n8n · SFML
 
 ---
 
 ## 🚀 Projects
 
-### 🤖 Autonomous Drone
+### 🤖 Autonomous Drone (Python)
 Built a fully autonomous drone with real-time object detection and tracking using OpenCV. Implemented AI-based navigation and obstacle avoidance, handling all hardware-software integration from sensor data to flight control logic.
+
+---
+
+### 👾 Maze-Solver Robot (Python)
+Built a maze-solving robot implemented in ROS2, which utilizes a top-view camera feed, OpenCV-based image processing and Search algorithms based pathfinding to
+navigate through a maze and reach an exit position.
 
 ---
 
